@@ -1,0 +1,23 @@
+
+.counter{
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+}
+.btn{
+    width: 50px;
+    height: 50px;
+    border: 1px dotted green;
+    border-radius: 50% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.quantity{
+    width: 100px;
+    height: 30px;
+    border: 1px solid green;
+    border-radius: 5px;
+    text-align: center;
+}
